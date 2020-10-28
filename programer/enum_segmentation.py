@@ -16,6 +16,7 @@ path = r'/Users/linjie/资料_1/Project1-master-6969c54c279dbdb8196c1ae07e1b4a60
 4、根据分词结果得到概率最大的结果
 '''
 
+
 '''
 step1：读取语料库
 '''
