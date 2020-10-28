@@ -17,6 +17,8 @@ path = r'/Users/linjie/资料_1/Project1-master-6969c54c279dbdb8196c1ae07e1b4a60
 '''
 
 
+
+
 '''
 step1：读取语料库
 '''
