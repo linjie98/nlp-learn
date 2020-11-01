@@ -11,7 +11,6 @@
 
 >candidates是已知的候选集合，公式含义：找到c使得p(c|s)最大，并返回c的值(c hat)
 
-
 ##### 计算此公式
 
 ![image](https://github.com/ash-ali/nlp-learn/blob/master/img/c_argmax.png)
